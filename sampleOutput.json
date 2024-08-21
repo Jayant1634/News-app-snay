@@ -1,0 +1,212 @@
+{
+  "status": "ok",
+  "totalResults": 24,
+  "articles": [
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Tess Bennett",
+      "title": "IVF breakthrough shows AI just as good as humans, and much faster",
+      "description": "A world-first study led by Australian researchers found an AI-powered embryo selection tool led to a similar number of pregnancies as human embryologists.",
+      "url": "http://www.afr.com/technology/ivf-breakthrough-shows-ai-just-as-good-as-humans-and-much-faster-20240815-p5k2m8",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.3177%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_133%2C$y_55/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/8c59376c0d87982d280aca3e0966d3a477b497ca",
+      "publishedAt": "2024-08-16T06:50:55Z",
+      "content": "A world-first study led by Australian researchers has found artificial intelligence is 10 times faster and just as effective as senior embryologists in assessing which embryos to select for IVF treat… [+193 chars]"
+    },
+    {
+      "source": { "id": "nbc-news", "name": "NBC News" },
+      "author": "Mithil Aggarwal",
+      "title": "World’s oldest first-time panda mom gives birth to twins",
+      "description": "A giant panda has given birth to Hong Kong’s first set of twin cubs, officials said, making her the world’s oldest first-time panda mother.",
+      "url": "https://www.nbcnews.com/news/world/worlds-oldest-first-time-panda-mom-gives-birth-twins-rcna166857",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-08/240815-Hong-Kong-Pandas-ac-1159p-df5071.jpg",
+      "publishedAt": "2024-08-16T05:38:10Z",
+      "content": "HONG KONG A giant panda has given birth to Hong Kongs first set of twin cubs, officials said in a surprise announcement, making her the worlds oldest first-time panda mother.\r\nThe panda, Ying Ying, g… [+3190 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": "Marco Monteverde",
+      "title": "Ed Sheeran makes shock Aussie buy",
+      "description": "Australian pair Cameron Burgess and Massimo Luongo are set to rub shoulders with one of the world’s biggest music stars after Ed Sheeran bought a share of English Premier League club Ipswich Town.",
+      "url": "https://www.news.com.au/sport/football/ed-sheeran-buys-share-in-epl-club-of-australians-cameron-burgess-and-massimo-luongo/news-story/b813442df862265effe9a0f093ceb100",
+      "urlToImage": "https://content.api.news/v3/images/bin/395ab4ff39a80d40080a4da85f434173",
+      "publishedAt": "2024-08-16T05:10:00Z",
+      "content": "Australian pair Cameron Burgess and Massimo Luongo are set to rub shoulders with one of the world’s biggest music stars after Ed Sheeran bought a share of English Premier League club Ipswich Town.\r\nH… [+1615 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters",
+      "title": "Russian MP says Ukrainian incursion could lead to global war, RIA reports",
+      "description": "A Russian parliamentary deputy said on Friday that the Western-backed Ukrainian incursion has brought the world close to an all-out global war, Russia's RIA news agency reported.",
+      "url": "https://www.reuters.com/world/europe/russian-mp-says-ukrainian-incursion-could-lead-global-war-ria-reports-2024-08-16/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/5OAUNIZFRFOGXPAROGF6N6NGII.jpg?auth=64f728f80da6550dcc871ffd1e300702a8247075ef7c3288502d4cb9f40af057&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-08-16T04:47:23Z",
+      "content": null
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "The Associated Press",
+      "title": "Ukraine’s swift push into the Kursk region shocked Russia and exposed its vulnerabilities",
+      "description": "A daring Ukrainian military push into Russia’s Kursk region has seen Kyiv's forces seize scores of villages, take hundreds of prisoners and force the evacuation of tens of thousands of civilians in what has become the largest attack on the country since World…",
+      "url": "https://apnews.com/1178b99b32b476816db3a48ffa06b11a",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/360c1b78d8744f21b2127fbba23d2c88/3000.jpeg",
+      "publishedAt": "2024-08-16T04:10:08Z",
+      "content": "A daring Ukrainian military push into Russia’s Kursk region has seen Kyiv's forces seize scores of villages, take hundreds of prisoners and force the evacuation of tens of thousands of civilians in w… [+6111 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Eduardo Cuevas",
+      "title": "As mpox continues to cross borders, is the US prepared for an outbreak?",
+      "description": "The first identified case outside of Africa came a day after the World Health Organization issued its second emergency declaration.",
+      "url": "https://www.usatoday.com/story/news/health/2024/08/15/mpox-outbreak-us-prep/74808612007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/08/15/USAT/74815966007-20240813-t-135812-z-488502842-rc-2-yx-8-aqv-1-tn-rtrmadp-3-africampox.JPG?crop=5499,3093,x0,y228&width=3200&height=1800&format=pjpg&auto=webp",
+      "publishedAt": "2024-08-15T22:33:55+00:00",
+      "content": "A highly contagious and severe strain of mpox is crossing continents and U.S. officials are preparing for its eventual arrival here.\r\nU.S. officials are pleading with the public to take precautions n… [+8089 chars]"
+    },
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "Najma  Sambul",
+      "title": "World Risk Poll indicates South-East Asians feel more prepared than most to face disaster",
+      "description": "A new survey found most South-East Asians feel they could protect themselves and their families from a future disaster like a tsunami or earthquake.",
+      "url": "https://www.abc.net.au/news/2024-08-15/disaster-preparedness-south-east-asia/104220622",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/907b279e1e2f91c1b03dc13fd17d95e2?impolicy=wcms_watermark_news&cropH=1125&cropW=2000&xPos=0&yPos=100&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-08-15T06:24:11Z",
+      "content": "South-East Asia is one of the most disaster-prone areas in the world, but a new study shows people living there feel more prepared than most in the face of disaster.\r\nRoughly two-thirds of people sur… [+6274 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Aron Solomon",
+      "title": "It's Time to Make Elon Musk Pay for His Web of Misinformation | Opinion",
+      "description": "In a time where misinformation spreads like wildfire, the responsibility of those who control the most powerful platforms in the world cannot be understated.",
+      "url": "https://www.newsweek.com/its-time-make-elon-musk-pay-his-web-misinformation-opinion-1938795",
+      "urlToImage": "https://d.newsweek.com/en/full/2449286/trump-x.jpg",
+      "publishedAt": "2024-08-14T16:03:57Z",
+      "content": "In a time where misinformation spreads like wildfire, the responsibility of those who control the most powerful platforms in the world cannot be understated.\r\nWhile most media today are knee-deep int… [+5789 chars]"
+    },
+    {
+      "source": { "id": "polygon", "name": "Polygon" },
+      "author": "Matt Patches",
+      "title": "Disney is finally doing Villains Land at Disney World",
+      "description": "Walt Disney World will get a Villains Land expansion, and while opening date is unclear, it’s under construction and ready to indulge Decesdents fans.",
+      "url": "https://www.polygon.com/24217891/disney-world-villains-land-plans",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/g-v-yJUBvzHZzlwDbMwXY78KIe0=/261x0:2286x1060/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25567665/MKVILLAINS_scaled.jpg",
+      "publishedAt": "2024-08-11T12:48:26Z",
+      "content": "Villains finally have a home at Disney World. Plans for a Villains Land at Walt Disney World were unveiled on Saturday at the D23 Expo, where Disney Experiences chairman Josh DAmaro promised the expa… [+1448 chars]"
+    },
+    {
+      "source": { "id": "crypto-coins-news", "name": "Crypto Coins News" },
+      "author": null,
+      "title": "What Sets DePIN 2.0 Apart in the Decentralized World",
+      "description": "Explore DePIN 2.0's advancements in decentralized infrastructure with AI integration and enhanced smart contracts.",
+      "url": "https://www.ccn.com/opinion/technology/what-sets-depin-2-0-apart-decentralized/",
+      "urlToImage": "https://www.ccn.com/wp-content/uploads/2024/02/decentralized-physical-infrastructure-networks-depins-shaping-blockchain.webp",
+      "publishedAt": "2024-07-26T07:06:12Z",
+      "content": "Key Takeaways\r\n<ul><li>Investment in DePINs has seen a significant uptick</li><li>DePIN 2.0 advances decentralized infrastructure by incorporating enhanced smart contracts moving beyond the foundatio… [+5768 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider-uk",
+        "name": "Business Insider (UK)"
+      },
+      "author": "Matthew Fox",
+      "title": "Nvidia market cap surpasses Apple, now world's 2nd-most-valuable company",
+      "description": "The chip maker powering the AI boom has turned into one of the world's most valuable companies.",
+      "url": "https://markets.businessinsider.com/news/stocks/nvidia-stock-bigger-than-apple-2nd-most-valuable-company-global-2024-6",
+      "urlToImage": "https://i.insider.com/6660caa2d0b8e1c832cc5108?width=1200&format=jpeg",
+      "publishedAt": "2024-06-05T20:29:42Z",
+      "content": "Nvidia surged 5% on Wednesday to become the second-most-valuable company in the world, surpassing Apple.\r\nThe stock closed at $1,224.40 per share, giving it a market valuation of $3.014 trillion.\r\nTh… [+1654 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Dev Pragad, President and CEO",
+      "title": "On the World Stage: Newsweek's Interviews with Indian Prime Minister Modi and Japanese Prime Minister Kishida",
+      "description": "We aim to transcend surface-level narratives, offering coverage that creates opportunities for true international dialogue.",
+      "url": "https://www.newsweek.com/world-stage-newsweeks-interviews-indian-prime-minister-modi-japanese-prime-minister-kishida-1895648",
+      "urlToImage": "https://d.newsweek.com/en/full/2385807/dev-pragad-modi-kishida-newsweek-interview.jpg",
+      "publishedAt": "2024-04-30T14:55:15Z",
+      "content": "Newsweek's core mission is to provide our readers with a deep and nuanced understanding of the world around them. That means embracing a truly global perspective. We aim to transcend surface-level na… [+5470 chars]"
+    },
+    {
+      "source": { "id": "the-next-web", "name": "The Next Web" },
+      "author": "Thomas Macaulay",
+      "title": "A metaverse network plots an escape from Meta's 'walled gardens'",
+      "description": "Improbable has launched a \"network of metaverses\" that eyes connected virtual worlds outside Meta's 'walled gardens'",
+      "url": "http://thenextweb.com/news/improbable-metaverse-network-m2-connected-virtual-worlds-outside-metas-walled-gardens",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-7-1.jpg&signature=d39f71ac2f38f0ce47cf0df5a49c588d",
+      "publishedAt": "2023-06-21T11:54:26Z",
+      "content": "Two years after Mark Zuckerberg launchedit into orbit, the metaverse is crashing back to Earth. As the hype sparked by Facebooks rebrand fades amid jaw-dropping losses, risible selfies, and the gener… [+6159 chars]"
+    },
+    {
+      "source": { "id": "recode", "name": "Recode" },
+      "author": "Vox Staff",
+      "title": "What artificial intelligence is, and how it’s changing our world",
+      "description": "Understand how generative AI tools, like ChatGPT, Stable Diffusion, and DALL-E, are already shaping everything — from text and image generation to how we live and work.",
+      "url": "https://www.vox.com/2023/4/28/23702644/artificial-intelligence-machine-learning-technology",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ghpMKgJICiZk9Bi_PGJ8LlFP33M=/0x566:6000x3707/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24618050/GettyImages_1483829076.jpg",
+      "publishedAt": "2023-04-28T18:15:39Z",
+      "content": "Artificial intelligence is suddenly everywhere or at least, thats what it seems like to us at Vox. Even in its current form and with its limitations, the tech is already shaping everything from text … [+525 chars]"
+    },
+    {
+      "source": { "id": "the-irish-times", "name": "The Irish Times" },
+      "author": "Ed Power",
+      "title": "Bear Grylls Meets President Zelenskyy review: TV action man eager to set the world to rights",
+      "description": "In this Channel 4 documentary, Grylls is very good at being earnest and is genuinely moved by the fortitude of Ukraine",
+      "url": "https://www.irishtimes.com/culture/tv-radio/2023/03/29/bear-grylls-meets-president-zelenskyy-review-tv-action-man-eager-to-set-the-world-to-rights/",
+      "urlToImage": "https://www.irishtimes.com/resizer/6p88mds4ABkJsWVTO8rznsDX2_g=/1200x630/filters:format(jpg):quality(70):focal(1350x510:1360x520)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/67CBWCZ4IRHTBOYE6PRS4STLFU.jpg",
+      "publishedAt": "2023-03-29T12:56:56Z",
+      "content": "Bear Grylls bounces into Ukraine eager to set the world to rights. The TV action man is travelling across an active war theatre to meet the Ukrainian president Volodymyr Zelenskiy and has cultivated … [+2929 chars]"
+    },
+    {
+      "source": { "id": "the-globe-and-mail", "name": "The Globe And Mail" },
+      "author": "Erica Alini",
+      "title": "‘It’s a dog eat dog world’ as housing cool-down helps ignite rental market wars",
+      "description": "Rents in many parts of Canada are nearing or surging past prepandemic records, just as property values and home resale transactions declined for the second consecutive month in May",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/household-finances/article-its-a-dog-eat-dog-world-as-housing-cool-down-helps-ignite-rental/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/k4SzzUz-fDXLTPrBSHk8c8OwZCs=/1200x801/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OUZ33GZN4VBJZCAFM4TXYDFKAI.JPG",
+      "publishedAt": "2022-06-16T09:00:00Z",
+      "content": "A sign advertising a house for rent in Ottawa, Ont., on May 16.Spencer Colby/The Globe and Mail\r\nJust as Canadas home sales and prices cool off, the rental market is catching fire.\r\nRents in many par… [+4720 chars]"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "Cameron Temple",
+      "title": "Adrien Broner has two-word response to Conor Benn calling him out for a fight as ‘The Destroyer’ gears up f...",
+      "description": "Adrien Broner had some choice words for Conor Benn after the young Brit called him out. The four-weight world champion, who is now 32 years old, has not fought since February of last year when he b…",
+      "url": "https://talksport.com/sport/1084110/adrien-broner-responds-to-conor-benn-call-out/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2022/04/TALKSPORT-BENN-BRONER.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+      "publishedAt": "2022-04-12T16:00:00Z",
+      "content": "Adrien Broner had some choice words for Conor Benn after the young Brit called him out. \r\nThe four-weight world champion, who is now 32 years old, has not fought since February of last year when he b… [+2676 chars]"
+    },
+    {
+      "source": { "id": "the-lad-bible", "name": "The Lad Bible" },
+      "author": null,
+      "title": "Latest News - Todays Breaking News Headlines & Exclusives | LADbible",
+      "description": "The latest breaking news from around the world on LADbible. Exclusive stories and the best coverage giving you the news as you want it.",
+      "url": "https://www.theladbible.com/news",
+      "urlToImage": null,
+      "publishedAt": "2021-06-16T09:22:43.3050014Z",
+      "content": "It's definitely worth a go, isn't it?"
+    },
+    {
+      "source": { "id": "football-italia", "name": "Football Italia" },
+      "author": "Football Italia Staff",
+      "title": "Report: Allegri set to replace Zidane at Madrid",
+      "description": "Real Madrid will reportedly confirm Zinedine Zidane&rsquo;s exit next week, with Max Allegri lined up to succeed the World Cup winner.",
+      "url": "http://www.football-italia.net/171169/report-allegri-set-replace-zidane-madrid",
+      "urlToImage": "https://www.football-italia.net/sites/default/files/imagecache/main_photo/[type]/[nid]/Allegri-1811-smug-epa_2_8_7.jpg",
+      "publishedAt": "2021-05-25T01:00:00Z",
+      "content": "Real Madrid will reportedly confirm Zinedine Zidane’s exit next week, with Max Allegri lined up to succeed the World Cup winner.\r\nThe former Juventus coach has been linked with a move to the Spanish … [+671 chars]"
+    },
+    {
+      "source": { "id": "national-geographic", "name": "National Geographic" },
+      "author": "Heather Greenwood Davis",
+      "title": "Families are leading a new wave in Black travel. Here’s why",
+      "description": "For many parents, showing their kids the world is about both the past and the future.",
+      "url": "https://www.nationalgeographic.com/travel/2021/02/the-importance-of-travel-for-black-families.html",
+      "urlToImage": "https://www.nationalgeographic.com/content/dam/travel/2021-digital/black-family-travel/black-family-travel-2.jpg",
+      "publishedAt": "2021-02-17T14:37:24.3073832Z",
+      "content": null
+    }
+  ]
+}
